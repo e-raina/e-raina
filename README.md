@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @e-raina
 - 👀 I’m interested in psychology, UI/UX, and creative marketing
-- 🌱 I’m currently learning about the fundamentals of coding
+- 🌱 I’m currently learning about the fundamentals of front-end web development
 - 💞️ I’m looking to collaborate on content-writing or UI/UX projects!
 - 📫 How to reach me: DM me on LinkedIn (linkedin.com/in/raihanahnabilla)
 
